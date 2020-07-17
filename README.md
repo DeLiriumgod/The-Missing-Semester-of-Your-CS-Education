@@ -4,7 +4,7 @@
 
 | 日程 | 课题             |
 | ---- | ---------------- |
-| 1/13 | 课程概览与shell  |
+| 1/13 | [课程概览与shell](https://github.com/KevinYc5/The-Missing-Semester-of-Your-CS-Education/blob/master/1_13%20%E8%AF%BE%E7%A8%8B%E6%A6%82%E8%A7%88%E4%B8%8E%20shell.md)  |
 | 1/14 | Shell 工具和脚本 |
 | 1/15 | 编辑器 (Vim)     |
 | 1/16 | 数据整理         |

@@ -12,5 +12,5 @@
   1/28: 安全和密码学
   1/30: 提问&回答
   6/21: 大杂烩
-课程链接：https://missing-semester-cn.github.io/  
-讲座视频可以在 [YouTube]https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J 上找到
+打开[课程链接](https://missing-semester-cn.github.io/) 了解更多 
+讲座视频可以在 [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) 上找到

@@ -4,10 +4,10 @@
 
 | 日程 | 课题             |
 | ---- | ---------------- |
-| 1/13 | [课程概览与shell](https://github.com/KevinYc5/The-Missing-Semester-of-Your-CS-Education/blob/master/1_13%20%E8%AF%BE%E7%A8%8B%E6%A6%82%E8%A7%88%E4%B8%8E%20shell.md)  |
-| 1/14 | Shell 工具和脚本 |
-| 1/15 | 编辑器 (Vim)     |
-| 1/16 | 数据整理         |
+| 1/13 | [课程概览与shell](https://github.com/KevinYc5/The-Missing-Semester-of-Your-CS-Education/blob/master/%E8%AF%BE%E7%A8%8B%E6%A6%82%E8%A7%88%E4%B8%8E%20shell.md)  |
+| 1/14 | [Shell 工具和脚本](https://github.com/KevinYc5/The-Missing-Semester-of-Your-CS-Education/blob/master/Shell%20%E5%B7%A5%E5%85%B7%E5%92%8C%E8%84%9A%E6%9C%AC.md) |
+| 1/15 | [编辑器 (Vim)](https://github.com/KevinYc5/The-Missing-Semester-of-Your-CS-Education/blob/master/%E7%BC%96%E8%BE%91%E5%99%A8%EF%BC%88Vim%EF%BC%89.md)     |
+| 1/16 | [数据整理](https://github.com/KevinYc5/The-Missing-Semester-of-Your-CS-Education/blob/master/%E6%95%B0%E6%8D%AE%E6%95%B4%E7%90%86.md)         |
 | 1/21 | 命令行环境       |
 | 1/22 | 版本控制(Git)    |
 | 1/23 | 调试及性能分析   |

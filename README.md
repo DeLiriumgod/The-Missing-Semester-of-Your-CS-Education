@@ -1,6 +1,7 @@
 # The-Missing-Semester-of-Your-CS-Education
+> 对于如何精通工具这一主题，讲授命令行、强大的文本编辑器的使用、使用版本控制系统提供的多种特性等等。
 
-对于如何精通工具这一主题，讲授命令行、强大的文本编辑器的使用、使用版本控制系统提供的多种特性等等
+课后题解：
 
 | 日程 | 课题             |
 | ---- | ---------------- |
@@ -17,7 +18,7 @@
 | 6/21 | 大杂烩           |
     
     
-打开 [课程链接](https://missing-semester-cn.github.io/) 了解更多 
-讲座视频可以在 [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) 上找到
+[课程链接](https://missing-semester-cn.github.io/)
+讲座视频可以在 [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) 找到
 
 

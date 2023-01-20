@@ -258,6 +258,7 @@ $ echo 1 | sudo tee /sys/class/leds/input6::scrolllock/brightness
     ```shell
     touch semester
     ```
+> touch命令的功能是用于创建空文件与修改时间戳
 
     
 
